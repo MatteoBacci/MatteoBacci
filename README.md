@@ -1,3 +1,6 @@
+<p align="center"><img src="planck-ton.svg" alt="A whale breaching a ton of Plancks" width="100%"></p>
+
+<!-- IN THE FOLLOWING, THE BRAILLE ART.
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀       ⠀ħħħħħħħħħħħħħħ⠀⠀  ⠀ħħħħħ⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀ ħħħħħħħħħ⠀⠀⠀⠀⠀⠀        ⠀⠀⠀⠀⠀⠀ħħħħħħħħħħħħħħħħħħħħħħħħħħ⠀⠀⣀⣠⠤⢾⣞⣿⣿⣿⣶⠀  ħħħħħħħ⠀⠀⠀
@@ -24,3 +27,5 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
  
 ```
+Note: letters and braille may have different spacing depending on the font.
+-->
