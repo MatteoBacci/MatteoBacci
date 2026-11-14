@@ -1,0 +1,16 @@
+<svg xmlns="http://w3.org" width="320" height="140" viewBox="0 0 320 140">
+  <style>
+    .ascii {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 14px;
+      fill: #2ea043;
+      white-space: pre;
+    }
+  </style>
+  <text x="10" y="25" class="ascii">        .       </text>
+  <text x="10" y="43" class="ascii">      ":"     </text>
+  <text x="10" y="61" class="ascii">    ___:____     |"\/"|</text>
+  <text x="10" y="79" class="ascii">  ,'        `.    \  /</text>
+  <text x="10" y="97" class="ascii">  |  O        \___/  |</text>
+  <text x="10" y="115" class="ascii">~^~^~^~^~^~^~^~^~^~^~^~^~</text>
+</svg>
