@@ -1,9 +1,4 @@
-```
-        .       
-      ":"     
-    ___:____     |"\/"|
-  ,'        `.    \  /
-  |  O        \___/  |
-~^~^~^~^~^~^~^~^~^~^~^~^~
-```
+<p align="center">
+  <img src="./whale.svg" alt="Green ASCII whale" />
+</p>
  
